@@ -1,0 +1,11 @@
+{
+  "name": "my-localserver",
+  "version": "1.0.0",
+  "description": "This is a local server that listen for request",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "francis",
+  "license": "ISC"
+}
